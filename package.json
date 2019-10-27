@@ -1,0 +1,19 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "hellonode program\r this is my first program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heba9188/hellonode.git"
+  },
+  "author": "heba almasri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heba9188/hellonode/issues"
+  },
+  "homepage": "https://github.com/heba9188/hellonode#readme"
+}
